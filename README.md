@@ -1,6 +1,4 @@
-
-<img src="https://user-images.githubusercontent.com/96164867/222175851-5da284be-a432-4691-b65c-5be6d29c6f3d.png" >
-<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" >
+<img src="https://user-images.githubusercontent.com/96164867/222175851-5da284be-a432-4691-b65c-5be6d29c6f3d.png" height="300">
 <h1 align="center">Hi 👋, I'm Md. Abdur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" align="center" width="800" height="300">
